@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "## Test environments\n* local OS X install, R 3.4.3\n* ubuntu 12.04 (on travis-ci), R 3.4.3\n* win-builder (devel and release)\n\n## R CMD check results\n\n0 errors | 0 warnings | 1 note\n\n* This is a new release.\n\n## Reverse dependencies\n\nThis is a new release, so there are no reverse dependencies.\n\n---\n\n* I have run R CMD check on the NUMBER downstream dependencies.\n  (Summary at ...). \n  \n* FAILURE SUMMARY\n\n* All revdep maintainers were notified of the release on RELEASE DATE.\n",
+    "created" : 1518663186157.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4010344123",
+    "id" : "4F5BC44A",
+    "lastKnownWriteTime" : 1518663185,
+    "last_content_update" : 1518663185,
+    "path" : "~/ppcSpatial/cran-comments.md",
+    "project_path" : "cran-comments.md",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

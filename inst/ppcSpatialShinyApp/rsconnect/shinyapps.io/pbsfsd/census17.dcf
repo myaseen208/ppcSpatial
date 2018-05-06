@@ -1,0 +1,13 @@
+name: census17
+title: census17
+username:
+account: pbsfsd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 252070
+bundleId: 1209338
+url: https://pbsfsd.shinyapps.io/census17/
+when: 1517889597.89352
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: p2.RData|plotCity.R|plotDistricts.R|plotDivisions.R|plotProvinces.R|plotTehsils.R|tableOut.R

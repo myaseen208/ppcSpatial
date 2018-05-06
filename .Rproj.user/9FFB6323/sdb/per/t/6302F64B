@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "rm(list=ls())\n\nsetwd(\"C:/Users/PBS FAISALABAD/Documents/ppcSpatial\")\ngetwd()\n\nlibrary(devtools)\ndevtools::load_all()\n\ndevtools::use_testthat()\ndevtools::document(roclets=c('rd', 'collate', 'namespace', 'vignette'))\ndevtools::test()\n\ndevtools::install(build_vignettes = TRUE)\nlibrary(ppcSpatial)\n\ndevtools::build(vignettes = TRUE, manual = TRUE)\ndevtools::build(binary = TRUE,  vignettes = TRUE,\n  manual = TRUE, args = c('--preclean'))\n\ndevtools::check()\ndevtools::run_examples()\ndevtools::check_man()\ndevtools::use_cran_comments()\ndevtools::build_win()\n# devtools::release()\n",
+    "created" : 1518624640857.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "171002381",
+    "id" : "6302F64B",
+    "lastKnownWriteTime" : 1518627337,
+    "last_content_update" : 1518627337,
+    "path" : "C:/Users/PBS FAISALABAD/Desktop/Mr._M._Yaseen_PakPC2017GUI.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,12 @@
+name: PakPopCensus2017
+title: PakPopCensus2017
+username:
+account: myaseen208
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 295060
+bundleId: 1257329
+url: https://myaseen208.shinyapps.io/PakPopCensus2017/
+when: 1520442582.37314
+asMultiple: FALSE
+asStatic: FALSE
