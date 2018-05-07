@@ -1,4 +1,4 @@
-# ppcSpatial
+# ppcSpatial: Spatial Analysis of Pakistan Population Census
 ## Introduction
 
 **ppcSpatial** is a Graphical User Interface for Pakistan Population Census 2017
