@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/404.html</loc>
+  </url>
+  <url>
+    <loc>/authors.html</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+  </url>
+  <url>
+    <loc>/news/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/Launch_ppcSpatial.html</loc>
+  </url>
+  <url>
+    <loc>/reference/plotCity.html</loc>
+  </url>
+  <url>
+    <loc>/reference/plotDistricts.html</loc>
+  </url>
+  <url>
+    <loc>/reference/plotDivisions.html</loc>
+  </url>
+  <url>
+    <loc>/reference/plotProvinces.html</loc>
+  </url>
+  <url>
+    <loc>/reference/plotTehsils.html</loc>
+  </url>
+</urlset>
