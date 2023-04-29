@@ -1,3 +1,9 @@
+# Changes in ppcSpatial Version 0.3.0
+## New Features 
+
+* Removed retiring package rgdal
+
+
 # Changes in ppcSpatial Version 0.2.0
 ## New Features 
 
