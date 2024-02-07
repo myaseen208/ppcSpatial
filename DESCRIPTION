@@ -24,6 +24,6 @@ Imports:
 Suggests: 
   testthat   
 License: GPL-3
-URL: https://github.com/MYaseen208/ppcSpatial
+URL: https://github.com/MYaseen208/ppcSpatial, https://myaseen208.com/ppcSpatial/
 LazyData: TRUE
 RoxygenNote: 7.2.3
